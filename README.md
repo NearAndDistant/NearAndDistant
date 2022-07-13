@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi i'm Patrick 👋
 
-<!--
-**NearAndDistant/NearAndDistant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Collage Maker-14-Jul-2022-12 13-AM](https://user-images.githubusercontent.com/79040885/178852530-6b66b4f0-ff4b-4ef2-8065-fb265efe5a90.jpg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+-->
+- 🔭 I’m an infrastructure consultant
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
