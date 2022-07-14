@@ -1,4 +1,4 @@
-### Hi there, I'm Patrick 👋
+# Hi there, I'm Patrick 👋
 
 I'm an infrastructure and economics consultant currently studying part-time for a MSc in Comparative Public Policy. 
 
