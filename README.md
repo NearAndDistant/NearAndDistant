@@ -11,10 +11,8 @@ Please view each repository below for a further look at each area (with a lot mo
 
 ## Shiny Applications
 
-### the serious
 [Homeless Deaths in the UK (2013-2020)](https://nearanddistant.shinyapps.io/uk_homless_deaths/)
 
-### and the fun
 [Dogs of the Tidyverse](https://nearanddistant.shinyapps.io/Dogs_of_the_Tidyverse/)
 
 <!--
