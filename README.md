@@ -10,7 +10,12 @@ Please view each repository below for a further look at each area (with a lot mo
 ![porto_strip](https://user-images.githubusercontent.com/79040885/179021683-e217acfa-80a8-4780-881d-a0a4887f00ed.png)
 
 ## Shiny Applications
-[Shiny Application: Homeless Deaths in the UK (2013-2020)](https://nearanddistant.shinyapps.io/uk_homless_deaths/)
+
+### the serious
+[Homeless Deaths in the UK (2013-2020)](https://nearanddistant.shinyapps.io/uk_homless_deaths/)
+
+### and the fun
+[Dogs of the Tidyverse](https://nearanddistant.shinyapps.io/Dogs_of_the_Tidyverse/)
 
 <!--
 Anything I don't want to appear.
