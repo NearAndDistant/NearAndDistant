@@ -2,7 +2,7 @@
 
 I'm an infrastructure and economics consultant currently studying part-time for a MSc in Comparative Public Policy. 
 
-My preferred language is R and Shiny and you can see some of my portfolio below:
+My preferred language is R and Shiny and you can see some of my portfolio below.
 
 ## Data Analysis & Visualisation
 Please view each repository below for a further look at each area (with a lot more analysis!) as well as the scripts.
